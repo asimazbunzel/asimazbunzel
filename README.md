@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![banner](https://user-images.githubusercontent.com/35583956/137051215-ac186d1c-7043-4f50-b98c-bc279793778d.png)
+
 I'm Adolfo, an astronomer studying the evolution of massive binary systems which evolve towards the merger of compact objects, sources that the LIGO/Virgo collaboration is currently detecting.
 
 I'm also interested in how (some) stars end their evolution and blow up :telescope:
