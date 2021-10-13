@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Adolfo, an astronomer studying the evolution of massive binary systems which evolve towards the merger of compact objects, sources that the LIGO/Virgo collaboration is currently detecting.
+
+I'm also interested in how (some) stars end their evolution and blow up :telescope:
+
+I spend most of my day in front of the computer, either modelling stars or learning how to master vim (actually neovim) :computer:
 
 <!--
 **asimazbunzel/asimazbunzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
