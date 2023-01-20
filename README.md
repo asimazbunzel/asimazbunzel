@@ -22,6 +22,8 @@ I try to release every piece of work I own:
 
 [Roche potentials ! + a try to use the code in blender](https://github.com/asimazbunzel/roche-potential)
 
+[custom link in bio webpage](https://asimazbunzel.github.io/link-bio/)
+
 ### Dotfiles
 
 I use Manjaro linux on my computer, here is the repository with my dotfiles: [dots](https://github.com/asimazbunzel/mydotfiles)
