@@ -14,6 +14,12 @@ I try to release every piece of work I own:
 
 [MESA code used for a work we did on the progenitor population of two binary black hole mergers](https://github.com/asimazbunzel/mesa_low_mass_bbhs)
 
+### Presentations
+
+I've recently started to give presentations about astronomy to the public in general
+
+[Star Party Valle Grande (SPVG) 2023](https://asimazbunzel.github.io/starparty2023/) (in Spanish)
+
 ### Some codes
 
 [syntax highlighting for the MESA code in vim (work in progress)](https://github.com/asimazbunzel/vim-mesa)
